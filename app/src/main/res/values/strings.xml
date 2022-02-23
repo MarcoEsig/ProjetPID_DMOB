@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReservESIG</string>
+    <string name="reservesig">ReservESIG</string>
+    <string name="descriptionLabel">Faites vos réservation sur ReservESIG, vous y trouverez les meilleurs livres</string>
+</resources>
